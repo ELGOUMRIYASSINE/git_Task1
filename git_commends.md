@@ -1,4 +1,4 @@
-git clone https://github.com/ELGOUMRIYASSINE/Devops_Task1.git 
+git clone https://github.com/ELGOUMRIYASSINE/git_Task1.git 
 cd Devops_task1
 git checkout -b master
 mkdir Task1
